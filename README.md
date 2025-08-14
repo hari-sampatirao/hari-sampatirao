@@ -23,7 +23,7 @@
 
 - [LinkedIn](https://www.linkedin.com/in/hari-sampatirao)  
 - [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)  
-- mail:s.hariprasad@gmail.com)  
+- [Email](mailto:s.hariprasad@gmail.com)   
 
 ## 📈 GitHub Stats
 
