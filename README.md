@@ -21,9 +21,9 @@
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [LinkedIn](https://www.linkedin.com/in/hari-sampatirao)  
 - [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)  
-- [Email](mailto:YOUR.EMAIL@domain.com)  
+- mail:s.hariprasad@gmail.com)  
 
 ## 📈 GitHub Stats
 
