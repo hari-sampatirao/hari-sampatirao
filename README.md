@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there, I’m Hari Sampatirao 👋
 
-<!--
-**hari-sampatirao/hari-sampatirao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
 
-Here are some ideas to get you started:
+- 🔬 Principal Engineer at Qualcomm  
+- 🎓 PhD Student in Artificial Intelligence & Machine Learning (AIML)  
+- 📍 Based in Fremont, CA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧑‍🔬 Research & Technical Interests
+
+- Artificial Intelligence (AI)
+- High-Speed Networking
+- Cloud Networking
+- Network Security
+- Network Drivers
+
+## 💻 Tech Stack
+
+- Languages: **C**, **Python**
+- Platforms: Linux, Cloud, Embedded Systems
+
+## 🌐 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)  
+- [Google Scholar](https://scholar.google.com/citations?user=YOUR-ID)  
+- [Email](mailto:YOUR.EMAIL@domain.com)  
+
+## 📈 GitHub Stats
+
+![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari-sampatirao&show_icons=true&theme=default)
+
+---
+
+*Passionate about building intelligent, high-performance, and secure networks.*
+
